@@ -1,3 +1,5 @@
+In this repository you can find my CV, certificates, papers and thesis. Below you can find information about my professional journey and the guide to the projects on Github.
+
 # Short information about me
 
 Hello!
