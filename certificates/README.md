@@ -9,5 +9,5 @@
 ## Other courses taken:
 * Microsoft Azure Data Scientist Learning Path ()
 * [ODS.ai](https://ods.ai/) Machine Learning and Deep Learning Courses
-* Statistics
+* Statistics ([Stepik](https://stepik.org/)
 * Statistical Inference
