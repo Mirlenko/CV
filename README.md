@@ -1,11 +1,6 @@
-My Data Science journey started in April, 2020, when the the Sars-Cov-19 virus caused the lockdown around the world. The amount of spare time I usually spend on self-education was raised, I was looking for the field I am interested in the most.
-
-The course I took during my education are:
-
-Among the certificates I hold are:
-*
-* 
-
-Please check the following repositories to see the projects I would like to demonstrate:
-* 
-* 
+Please take a look at my implemented projects:
+* [Propulsion Plants Maintenance Prediction](https://github.com/Mirlenko/Propulsion_Plants_Maintenance_Prediction)
+* [Surface Defects Classification](https://github.com/Mirlenko/Surface_Defects_Classification)
+* [Foursquare Data Clustering](https://github.com/Mirlenko/Foursquare-Data-Clustering)
+* [Churn Rate Prediction](https://github.com/Mirlenko/Churn-Rate-Prediction)
+* [Ig Nobel Prize Paper Titles Generation](https://github.com/Mirlenko/Ig_Nobel_Prize_Paper_Titles_Generation)
