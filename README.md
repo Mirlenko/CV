@@ -1,3 +1,9 @@
+Hello!
+
+I am Aleksandr Mirlenko, Automation Project Engineer at ABB.
+
+Let me briefly tell you my story. I was studying at [`Saint Petersbrug State University 'LETI'`](https://etu.ru/en/university/) at the `Faculty of Electrical Engineering` and Automatics, and my major was `Control in Technical Systems`. After graduation from the Bachelor's degree (btw, my bachelor's thesis topic was `'Battery Cyclization Automatic System'`)
+
 # Please take a look at my implemented projects:
 ## Industry 4.0:
 ### Regression: [Propulsion Plants Maintenance Prediction](https://github.com/Mirlenko/Propulsion_Plants_Maintenance_Prediction)
