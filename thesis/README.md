@@ -1,4 +1,3 @@
-# ABSTRACT
 ## Lappeenranta University of Technology
 ### School of Energy Systems
 #### Master's Degree Programme in Electrical Engineering
