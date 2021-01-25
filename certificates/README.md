@@ -7,7 +7,7 @@
 * Getting Started with Tensorflow2
 
 ## Other courses taken:
-* Microsoft Azure Data Scientist Learning Path ()
+* Microsoft Azure Data Scientist Learning Path
 * [ODS.ai](https://ods.ai/) Machine Learning and Deep Learning Courses
-* Statistics ([Stepik](https://stepik.org/)
+* Statistics ([Stepik](https://stepik.org/))
 * Statistical Inference
