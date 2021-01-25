@@ -2,12 +2,10 @@
 ## Lappeenranta University of Technology
 ### School of Energy Systems
 #### Master's Degree Programme in Electrical Engineering
-Aleksandr Mirlenko
 `Control of electrically excited synchronous motor in the field weakening range`
-Master’s Thesis
-2017
-63 pages, 28 figures, 2 tables
-Examiners: Professor Olli Pyrhönen
+* Master’s Thesis, 2017
+* 63 pages, 28 figures, 2 tables
+* Examiners: Professor Olli Pyrhönen
 
 Keywords: Synchronous motor, field oriented control, field weakening, reaction control, flux linkage estimator, robustness.
 
