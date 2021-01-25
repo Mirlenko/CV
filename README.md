@@ -7,7 +7,7 @@ Programming always seemed to me as the most interesting part of my job. The `Ind
 
 If you are interested in cooperation with me, please contact me by [email](mailto:mirlenko.al@gmail.com).
 
-# Please take a look at my implemented projects:
+Please take a look at the projects, that I implemented during my Digital Technologies studies:
 ## Industry 4.0:
 ### Regression: [Propulsion Plants Maintenance Prediction](https://github.com/Mirlenko/Propulsion_Plants_Maintenance_Prediction)
 ### Computer Vision: [Surface Defects Classification](https://github.com/Mirlenko/Surface_Defects_Classification)
