@@ -2,7 +2,7 @@ Hello!
 
 I am Aleksandr Mirlenko, Automation Project Engineer at ABB.
 
-Let me briefly tell you my story. I was studying at [`Saint Petersbrug State University 'LETI'`](https://etu.ru/en/university/) at the `Faculty of Electrical Engineering` and Automatics, and my major was `Control in Technical Systems`. After graduation from the Bachelor's degree (btw, my bachelor's thesis topic was `'Battery Cyclization Automatic System'`)
+Let me briefly tell you my story. I was studying at [`Saint Petersbrug State University 'LETI'`](https://etu.ru/en/university/) at the `Faculty of Electrical Engineering` and Automatics, and my major was `Control in Technical Systems`. After graduation from the Bachelor's degree (btw, my bachelor's thesis topic was `'Battery Cyclization Automatic System'`), I applied for Double Degree program between 'LETI' and [`Lappeenranta University of Technology 'LUT'`](https://www.lut.fi/web/en/) in Finland. My first year at master's was in 'LETI', and the second year, as well as the diploma thesis, took place in Lappeenranta, Finland. In January, 2017, I started to work on my master's thesis; the topic was [`Control of electrically excited synchronous motor in the field weakening range`](link). 
 
 # Please take a look at my implemented projects:
 ## Industry 4.0:
