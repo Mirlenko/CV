@@ -14,5 +14,5 @@
 
 ## Other courses taken:
 * Microsoft Azure Data Scientist Learning Path
-* [ODS.ai](https://ods.ai/) Machine Learning and Deep Learning Courses
+* Machine Learning and Deep Learning Courses (Open Data Science)
 * Statistical Inference
