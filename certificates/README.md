@@ -9,7 +9,7 @@
 * [Getting Started with Tensorflow2](https://www.coursera.org/account/accomplishments/verify/LKAM6M6SHK49)
 
 ## Courses completed on other resources:
-* [Statistics](https://stepik.org/cert/877821)
+* [Statistics Basics](https://stepik.org/cert/877821)
 * Lean Six Sigma Yellow Belt
 
 ## Other courses taken:
