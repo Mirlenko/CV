@@ -1,3 +1,5 @@
+# To view the certificates in English, please follow the links provided for each course.
+
 ## Specialization, made of 6 courses:
 * Data Analysis and Machine Learning. Yandex & MIPT (Moscow Institute of Physics and Technology)
 
