@@ -6,8 +6,11 @@
 * SQL for Data Science
 * Getting Started with Tensorflow2
 
+## Courses completed on other resources:
+* Statistics ([Stepik](https://stepik.org/))
+* Lean Six Sigma Yellow Belt
+
 ## Other courses taken:
 * Microsoft Azure Data Scientist Learning Path
 * [ODS.ai](https://ods.ai/) Machine Learning and Deep Learning Courses
-* Statistics ([Stepik](https://stepik.org/))
 * Statistical Inference
