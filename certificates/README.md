@@ -7,6 +7,7 @@
 * Machine Learning (by Andrew Ng)
 * [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/63BUZ7LP7XLV)
 * [Getting Started with Tensorflow2](https://www.coursera.org/account/accomplishments/verify/LKAM6M6SHK49)
+* [Statistical Inference](https://www.coursera.org/account/accomplishments/verify/D5VM7VE6TGXW)
 
 ## Courses completed on other resources:
 * [Statistics Basics](https://stepik.org/cert/877821)
